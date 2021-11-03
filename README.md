@@ -1,9 +1,2 @@
-- 👋 Hola, Soy Iván Pollino Carreras
-- 👀 Estoy interesado en la informática. 
-- 🌱 Estoy estudiando informática en el IES Valle del Cidacos
-- 📫 Para contactarme mandarme un correo a pollinocarrerasi@gmail.com
+- 👋 Hola, Soy Iván Pollino Carreras, soy tecnico instalador-reparador de equipos inormáicos. Tengo la titulación de Grado Medio de Sistemas Microinformáticos y Redes. Me gusta mucho instalar y reparar ordenadores. Soy un loco del hardware de ordenadores. Actualmente vivo en Calahorra.
 
-<!---
-Iván Pollino es una persona a la que le gusta mucho la informática
-
---->
