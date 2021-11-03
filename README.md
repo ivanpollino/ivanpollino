@@ -1,2 +1,10 @@
 - 👋 Hola, Soy Iván Pollino Carreras, soy tecnico instalador-reparador de equipos inormáicos. Tengo la titulación de Grado Medio de Sistemas Microinformáticos y Redes. Me gusta mucho instalar y reparar ordenadores. Soy un loco del hardware de ordenadores. Actualmente vivo en Calahorra.
-
+- Si quieres contactar conmigo puedes mandarme un correo electrónico a ivanpollinocarrerad@gmail.com
+- Mis ocupaciones son:
+- Técnico instalador-reparador de equipos informáticos. 
+- Técnico de soporte informático. 
+- Técnico de redes de datos. 
+- Reparador de periféricos de sistemas microinformáticos. 
+- Comercial de microinformática. 
+- Operador de tele-asistencia. 
+- Operador de sistemas.
