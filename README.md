@@ -1,10 +1,9 @@
-- 👋 Hola, Soy @ivanpollino
+- 👋 Hola, Soy Iván Pollino Carreras
 - 👀 Estoy interesado en la informática. 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 Estoy estudiando informática en el IES Valle del Cidacos
+- 📫 Para contactarme mandarme un correo a pollinocarrerasi@gmail.com
 
 <!---
-ivanpollino/ivanpollino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Iván Pollino es una persona a la que le gusta mucho la informática
+
 --->
